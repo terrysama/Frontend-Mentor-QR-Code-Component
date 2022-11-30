@@ -22,8 +22,8 @@ This is my solution to the QR code somponent challenge on Frontend Mentor. It ha
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [terrysama/Frontend-Mentor-QR-Code-Component](https://github.com/terrysama/Frontend-Mentor-QR-Code-Component.git)
+- Live Site URL: [View live site here](https://terrysama.github.io/Frontend-Mentor-QR-Code-Component/)
 
 ## My process
 
