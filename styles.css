@@ -1,0 +1,29 @@
+@import url(https://fonts.google.com/specimen/Outfit);
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #bdcdeb;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    height: 95vh;
+}
+
+p.card-text {
+    font-size: 15.5px;
+    color: #b2bbc6;
+}
+
+@media screen and (max-width: 376px) {
+    body, p.card-text {
+        font-size: 0.8rem;
+    }
+
+    h5 {
+        font-size: 1.05rem;
+    }
+}
