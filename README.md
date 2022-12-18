@@ -22,7 +22,7 @@ This is my solution to the QR code somponent challenge on Frontend Mentor. It ha
 
 ### Links
 
-- Solution URL: [terrysama/Frontend-Mentor-QR-Code-Component](https://github.com/terrysama/Frontend-Mentor-QR-Code-Component.git)
+- Solution URL: [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-bootstrap-nvppYjUkCu)
 - Live Site URL: [View live site here](https://terrysama.github.io/Frontend-Mentor-QR-Code-Component/)
 
 ## My process
